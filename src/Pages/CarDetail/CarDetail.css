@@ -1,0 +1,33 @@
+.crDet{
+   display: flex;
+   justify-content: center;
+   color: white;
+   
+}
+
+.card1{
+    padding-bottom: 2%;
+    background-color: #444444e6;
+    border-radius: 10px;
+    box-shadow: 0 2px 10px #0000004d;
+    margin: 10px;
+    width: 300px;
+    text-align: center;
+    transition: transform .2s;
+
+}
+.card1 img {
+    border-radius: 10px 10px 0 0;
+    width: 100%;
+    height: auto;
+}
+
+
+.card1 button{
+    background-color: blue;
+    color: yellow;
+    
+    padding: 3%;
+    border: none;
+    cursor: pointer;
+}

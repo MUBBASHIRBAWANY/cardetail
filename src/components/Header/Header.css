@@ -1,0 +1,15 @@
+.He-warp{
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    gap: 20%;
+    background-color: gray;
+    justify-content: space-between;
+    color: white;
+    
+    
+}
+
+.Name{
+    margin-right: 2%;
+}
